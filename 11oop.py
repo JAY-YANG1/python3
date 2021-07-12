@@ -155,6 +155,11 @@ sj1 = SungJuk('혜교', 86, 54, 76)
 
 print(sj1)
 
+print(sj1.name)
+print(sj1.kor)
+print(sj1.eng)
+print(sj1.mat)
+
 # 사원 관리를 위한 사원Employee 클래스를 정의하세요
 # 사원번호, 성, 이름, 이메일, 전화번호, 입사일,
 # 직책, 급여, 수당, 상사, 부서번호로 구성
